@@ -14,5 +14,8 @@ Sample website with plenty of files for demos
 Some change
 One more
 
+## How to contribute
+Do fork and Pull request.
+
 ### Copyright
 Copyright 2014. Mike.
