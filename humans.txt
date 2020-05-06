@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mike    bla@ble.ru  twitter.com/bla
 
 # THANKS
 
