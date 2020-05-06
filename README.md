@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Line added for rebas example.
+This repository is for showing how Git and GitHub work. Line added for rebas example. One more from mydeature branch.
 
 ## Introduction
 
